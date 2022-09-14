@@ -7288,3 +7288,19 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+.card-deck{
+  margin: 50px;
+}
+/* pesquisador1 */
+.card-img-top-1{
+  border-radius: 70%;
+}
+.card-img-top-2{
+  border-radius: 70%;
+
+}
+.card-img-top-3{
+  border-radius: 70%;
+  
+}
